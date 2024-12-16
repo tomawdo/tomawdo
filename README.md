@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="750px">
+  <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="850px">
 </p>
 
 
