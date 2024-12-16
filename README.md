@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
+</p>
+
 
 <!--
 **tomawdo/tomawdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
