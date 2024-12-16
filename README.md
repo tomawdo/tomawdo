@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="900px">
+<img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="850px">
 
 
 <!--
